@@ -1,27 +1,22 @@
 # Python para Geociencias
-================
-
 
 # Contenido
 
 ## Modulo 1
 
-* [01_Introduction.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/01_Introduction.ipynb)
-* [02_NatureOfWaves.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/02_NatureOfWaves.ipynb)
-* [03_FourierTransform.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/03_FourierTransform.ipynb)
-* [04_WaveDeconvolution.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/04_WaveDeconvolution.ipynb)
-* [05_RotationWithE.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/05_RotationWithE.ipynb)
-* [06_FFTInPython.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/06_FFTInPython.ipynb)
-* [07_SeeingSound.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/07_SeeingSound.ipynb)
-* [08_STFT.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/08_STFT.ipynb)
-* [09_AudioFiltering.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/09_AudioFiltering.ipynb)
-* [10_Conclusion.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/10_Conclusion.ipynb)
+* [01 Introduction](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/01_Introduction.ipynb)
+* [02_Estructura y contros de datos](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/02_NatureOfWaves.ipynb)
+* [03_Control de flujos](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/03_FourierTransform.ipynb)
+* [04. Entrada y salida de datos](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/04_WaveDeconvolution.ipynb)
+* [05_Funciones](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/05_RotationWithE.ipynb)
+* [06_Módulos y Paquetes](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/06_FFTInPython.ipynb)
+* [07_Programación Orientada a Objetos (POO)](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/07_SeeingSound.ipynb)
+* [08_Bibliotecas estándar de Python](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/08_STFT.ipynb)
 
----
+# Módulo 2
 
-To run locally, you must use this command to run ipython notebook: `ipython notebook --pylab inline`
 
-You will also need to install these python libraries (along with their C dependencies):
+Módulos de Python necesarios:
 
 * numpy
 * scipy
