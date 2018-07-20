@@ -1,18 +1,10 @@
-# Procesamiento y análisis de datos geofísicos usando Python 3
-
-
-FourierTalkOSCON
+# Python para Geociencias
 ================
 
-Presentation Materials for my [Sound Analysis with the Fourier Transform and Python](http://www.oscon.com/oscon2013/public/schedule/detail/28946) OSCON 2013 Talk.
 
----
+# Contenido
 
-### Link to this: http://tinyurl.com/fourierpython
-
----
-
-# Presentation Index
+## Modulo 1
 
 * [01_Introduction.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/01_Introduction.ipynb)
 * [02_NatureOfWaves.ipynb](http://nbviewer.ipython.org/url/raw.github.com/calebmadrigal/FourierTalkOSCON/master/02_NatureOfWaves.ipynb)
