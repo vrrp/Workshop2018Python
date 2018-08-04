@@ -15,10 +15,12 @@
 # Módulo 2
 * [08 Numpy]
 * [09 Matplotlib]
+* [10 Scipy]
+* [11 Statsmodels]
 
 # Módulo 3
-* [09 Procesamiento y visualización de datos en formato netCDF4]
-* [10 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16]
-* [Procesamiento y visualización de datos en formato grib2]
-* [Procesamiento y visualización de datos en formato TIF]
-* [Introducción al lenguaje de programación multiplataforma Julia]
+* [12 Procesamiento y visualización de datos en formato netCDF4]
+* [13 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16]
+* [14 Procesamiento y visualización de datos en formato grib2]
+* [15 Procesamiento y visualización de datos en formato TIF]
+* [16 Introducción al lenguaje de programación multiplataforma Julia]
