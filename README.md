@@ -4,7 +4,7 @@
 
 ## Módulo 1
 
-* [01 Introduction](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/00%20-%20Introducci%C3%B3n.ipynb)
+* [01 Introduction](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/1%20-%20Introducci%C3%B3n.ipynb)
 * [02 Estructura y contros de datos]()
 * [03 Control de flujos]()
 * [04 Entrada y salida de datos]()
@@ -15,7 +15,6 @@
 
 # Módulo 2
 
-
 Módulos de Python necesarios:
 
 * numpy
@@ -23,7 +22,6 @@ Módulos de Python necesarios:
 * matplotlib
 * ipython
 * scikits.audiolab
-
 
 # Módulo 3
 
