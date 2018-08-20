@@ -1,5 +1,7 @@
 # Python para Geociencias
-[dd](https://www.techworm.net/programming/wp-content/uploads/2018/08/pythonbundlecomputer_1024.jpg)
+<p align="center">
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/util/imagen.png" width="350"/>
+</p>
 # Contenido
 
 ## Módulo 1
