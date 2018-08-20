@@ -1,5 +1,5 @@
 # Python para Geociencias
-
+(https://www.techworm.net/programming/wp-content/uploads/2018/08/pythonbundlecomputer_1024.jpg)
 # Contenido
 
 ## Módulo 1
