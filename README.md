@@ -2,6 +2,7 @@
 <p align="center">
    <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/util/pj.jpg" width="350"/>
 </p>
+
 ## Módulo 1
 * [01 Introduction](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/1%20-%20Introducci%C3%B3n.ipynb)
 * [02 Estructura y contros de datos](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/2%20-%20Estructura_y_control_de_datos.ipynb)
