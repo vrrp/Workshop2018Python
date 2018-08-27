@@ -9,8 +9,8 @@
 * [03 Control de flujos](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/3%20-%20Control_de_flujos%20%20.ipynb)
 * [04 Entrada y salida de datos](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/4%20-%20Entrada_salida_datos.ipynb)
 * [05 Funciones](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/5%20-%20Funciones.ipynb)
-* [06 Módulos y Paquetes]
-* [07 Programación Orientada a Objetos (POO)]
+* [06 Módulos y Paquetes](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/6%20-%20M%C3%B3dulos_y_paquetes.ipynb)
+* [07 Programación Orientada a Objetos (POO)](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/7%20-%20Programaci%C3%B3n_orientada_a_objetos_POO.ipynb)
 * [08 Bibliotecas estándar de Python]
 
 # Módulo 2
