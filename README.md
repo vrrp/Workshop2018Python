@@ -11,7 +11,7 @@
 * [05 Funciones](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/5%20-%20Funciones.ipynb)
 * [06 Módulos y Paquetes](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/6%20-%20M%C3%B3dulos_y_paquetes.ipynb)
 * [07 Programación Orientada a Objetos (POO)](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/7%20-%20Programaci%C3%B3n_orientada_a_objetos_POO.ipynb)
-* [08 Bibliotecas estándar de Python]
+* [08 Bibliotecas estándar de Python](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/8%20-%20Biblioteca_estandar_de_python.ipynb)
 
 # Módulo 2
 * [08 Numpy]
