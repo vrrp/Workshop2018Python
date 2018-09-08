@@ -14,14 +14,14 @@
 * [08 Bibliotecas estándar de Python](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/8%20-%20Biblioteca_estandar_de_python.ipynb)
 
 # Módulo 2
-* [08 Numpy](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/9%20-%20Numpy.ipynb)
-* [09 Matplotlib]
-* [10 Scipy]
-* [11 Statsmodels]
+* [09 Numpy](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/9%20-%20Numpy.ipynb)
+* [10 Matplotlib]
+* [11 Scipy]
+* [12 Statsmodels]
 
 # Módulo 3
-* [12 Procesamiento y visualización de datos en formato netCDF4]
-* [13 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16]
-* [14 Procesamiento y visualización de datos en formato grib2]
-* [15 Procesamiento y visualización de datos en formato TIF]
-* [16 Introducción al lenguaje de programación multiplataforma Julia]
+* [13 Procesamiento y visualización de datos en formato netCDF4]
+* [14 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16]
+* [15 Procesamiento y visualización de datos en formato grib2]
+* [16 Procesamiento y visualización de datos en formato TIF]
+* [17 Introducción al lenguaje de programación multiplataforma Julia]
