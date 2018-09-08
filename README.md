@@ -14,7 +14,7 @@
 * [08 Bibliotecas estándar de Python](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/8%20-%20Biblioteca_estandar_de_python.ipynb)
 
 # Módulo 2
-* [08 Numpy]
+* [08 Numpy](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/9%20-%20Numpy.ipynb)
 * [09 Matplotlib]
 * [10 Scipy]
 * [11 Statsmodels]
