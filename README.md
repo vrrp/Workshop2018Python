@@ -16,11 +16,11 @@
 # Módulo 2
 * [09 Numpy](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/9%20-%20Numpy.ipynb)
 * [10 Introducción a la estadística](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/10%20-%20Introduccion_estadistica.ipynb)
-* [10 Matplotlib](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/11%20-%20Matplotlib.ipynb)
+* [11 Matplotlib](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/11%20-%20Matplotlib.ipynb)
 
 # Módulo 3
-* [13 Procesamiento y visualización de datos en formato netCDF4]
-* [14 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16]
-* [15 Procesamiento y visualización de datos en formato grib2]
-* [16 Procesamiento y visualización de datos en formato TIF]
-* [17 Introducción al lenguaje de programación multiplataforma Julia]
+* [12 Procesamiento y visualización de datos en formato netCDF4]
+* [13 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16]
+* [14 Procesamiento y visualización de datos en formato grib2]
+* [15 Procesamiento y visualización de datos en formato TIF]
+* [16 Introducción al lenguaje de programación multiplataforma Julia]
