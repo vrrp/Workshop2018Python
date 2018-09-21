@@ -16,9 +16,7 @@
 # Módulo 2
 * [09 Numpy](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/9%20-%20Numpy.ipynb)
 * [10 Introducción a la estadística](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/10%20-%20Introduccion_estadistica.ipynb)
-* [10 Matplotlib]
-* [11 Scipy]
-* [12 Statsmodels]
+* [10 Matplotlib](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/11%20-%20Matplotlib.ipynb)
 
 # Módulo 3
 * [13 Procesamiento y visualización de datos en formato netCDF4]
