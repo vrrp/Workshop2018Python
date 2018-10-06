@@ -19,7 +19,7 @@
 * [11 Matplotlib](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/11%20-%20Matplotlib.ipynb)
 
 # Módulo 3
-* [12 Procesamiento y visualización de datos en formato netCDF4]
+* [12 Procesamiento y visualización de datos en formato netCDF4](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/12%20-%20Procesamiento_visualizacion_datos_netCDF4.ipynb)
 * [13 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16]
 * [14 Procesamiento y visualización de datos en formato grib2]
 * [15 Procesamiento y visualización de datos en formato TIF]
