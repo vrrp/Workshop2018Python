@@ -23,10 +23,6 @@
 
 # Módulo 3
 * [12 Procesamiento y visualización de datos en formato netCDF4](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/12%20-%20Procesamiento_visualizacion_datos_netCDF4.ipynb)
-<p align="">
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/graficos/sst_wind.pdf" width="450"/>
-</p>
-
 * [13 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16]
 * [14 Procesamiento y visualización de datos en formato grib2]
 * [15 Procesamiento y visualización de datos en formato TIF]
