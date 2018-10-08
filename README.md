@@ -1,6 +1,6 @@
 # Python para Geociencias
 <p align="">
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/util/pj.jpg" width="225" height="600"/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/util/pj.jpg" width="600" height="225"/>
 </p>
 
 # Por : Víctor Rojas
