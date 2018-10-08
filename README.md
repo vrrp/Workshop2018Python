@@ -20,9 +20,9 @@
 * [10 Introducción a la estadística](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/10%20-%20Introduccion_estadistica.ipynb)
 * [11 Matplotlib](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/11%20-%20Matplotlib.ipynb)
 <p align="">
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/scatter.png" width="200" height= 200/>
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/gradSalt-Zona12.png" width="200" height= 200/>
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/barhistog.png" width="200" height= 200/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/scatter.png" width="250" height= 200/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/gradSalt-Zona12.png" width="250" height= 200/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/barhistog.png" width="250" height= 200/>
 </p>
 
 # Módulo 3
