@@ -31,6 +31,7 @@
    <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/graficos/sst_wind_prjOrtho.png" width="300"/>
    <img src = "https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/graficos/sst_wind.png" width = 450 height=300 />
 </p>
+
 * [13 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16]
 * [14 Procesamiento y visualización de datos en formato grib2]
 * [15 Procesamiento y visualización de datos en formato TIF]
