@@ -26,6 +26,7 @@
 </p>
 
 # Módulo 3
+* 11.1 Procesamiento de datos observados de estaciones meteorológicas(https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/11.1%20-%20Aplicaci%C3%B3n_plot_datos_estaciones_meteorologicas.ipynb)
 * [12 Procesamiento y visualización de datos en formato netCDF4](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/12%20-%20Procesamiento_visualizacion_datos_netCDF4.ipynb)
 <p align="">
    <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/graficos/sst_wind_prjOrtho.png" width="300"/>
