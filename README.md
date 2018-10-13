@@ -35,7 +35,7 @@
 
 * [13 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/13%20-%20Procesamiento_datos_satelite_geoestacionario_GOES16.ipynb)
 <p align="">
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/graficos/goes16-global.png" width = 450 height=400/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/graficos/goes16-global.png" width = 400 height=400/>
    <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/graficos/goes16-peru.png" width = 450 height=400/>
 </p>
 
