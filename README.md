@@ -34,6 +34,12 @@
 </p>
 
 * [13 Procesamiento y visualización de datos en formato netCDF4 del satélite geoestacionario GOES-16](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/13%20-%20Procesamiento_datos_satelite_geoestacionario_GOES16.ipynb)
+<p align="">
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/graficos/sst_wind_prjOrtho.png" width="300"/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/graficos/sst_wind_prjOrtho.png" width="300"/>
+</p>
+
+
 * [14 Procesamiento y visualización de datos en formato grib2](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo3/14%20-%20Procesamiento_visualizacion_datos_grib2.ipynb)
 * [15 Procesamiento y visualización de datos en formato TIF](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/11%20-%20Matplotlib.ipynb)
 * [16 Introducción al lenguaje de programación multiplataforma Julia]
