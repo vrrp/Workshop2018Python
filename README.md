@@ -47,8 +47,8 @@
 
 * [15 Procesamiento y visualización de datos en formato TIF](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/11%20-%20Matplotlib.ipynb)
 <p align="">
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/landsat8ND.png" width = 430 height=400/>
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/landsat8NDVI.png" width = 430 height=400/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/landsat8ND.png" width = 440 height=400/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/landsat8NDVI.png" width = 440 height=400/>
 </p>
 
 * [16 Introducción al lenguaje de programación multiplataforma Julia]
