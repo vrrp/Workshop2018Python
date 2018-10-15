@@ -47,7 +47,7 @@
 
 * [15 Procesamiento y visualización de datos en formato TIF](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/11%20-%20Matplotlib.ipynb)
 <p align="">
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/landsat8ND.png" width = 400 height=400/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/landsat8ND.png" width = 450 height=400/>
    <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo2/graficos/landsat8NDVI.png" width = 450 height=400/>
 </p>
 
