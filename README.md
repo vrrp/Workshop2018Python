@@ -1,10 +1,11 @@
 # Python para Geociencias
 <p align="">
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/util/pj.jpg" width="800" height="150"/>
+   <img src="https://vrrp.github.io/assets/images/sacha_logo1.png" width="200" height="150"/>
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/util/pj.jpg" width="600" height="150"/>
 </p>
 
-## Por : VR Rojas
-## Home page: [Sacha Analytics](https://vrrp.github.io/)
+#### Por : VR Rojas
+#### Home page: [Sacha Analytics](https://vrrp.github.io/)
 
 ## Módulo 1
 * [01 Introduction](https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/1%20-%20Introducci%C3%B3n.ipynb)

@@ -80,5 +80,5 @@ cmd.run("git push -u origin master", check=True, shell=True)
 os.system("git init")
 os.system("git add .")
 os.system(f"git commit -m '{mensaje}'")
-os.system("git push origin main")
+os.system("git push origin master")
 
