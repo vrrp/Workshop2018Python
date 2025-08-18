@@ -51,3 +51,9 @@
 </p>
 
 * [16 Introducción al lenguaje de programación multiplataforma Julia]
+```python
+# Your Python code goes here
+def hello_world():
+    print("Hello, Markdown!")
+
+hello_world()
