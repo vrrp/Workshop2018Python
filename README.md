@@ -3,8 +3,8 @@
 
 <table class="center">
   <tr ALIGN=center style="font-family:Times New Roman;color:#FFFFFF">
-    <td><a href="https://www.vrrp.github.io"><img src="https://vrrp.github.io/assets/images/sacha_logo1.png" align="center" style="width:80px;height:70px;"></a></td>
-    <td><a href="https://www.vrrp.github.io/">Sacha Analytics</a></td>
+    <td><a href="vrrp.github.io/"><img src="https://vrrp.github.io/assets/images/sacha_logo1.png" align="center" style="width:80px;height:70px;"></a></td>
+    <td><a href="vrrp.github.io/">Sacha Analytics</a></td>
   </tr>
 </table>
 
