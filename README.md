@@ -4,7 +4,7 @@
 <table class="center">
   <tr ALIGN=center style="font-family:Times New Roman;color:#FFFFFF">
     <td><img src="https://vrrp.github.io/assets/images/sacha_logo1.png" align="center" style="width:80px;height:70px;"> </td>
-    <td><a href="vrrp.github.io" style="color:gree">Sacha Analytics</a></td>
+    <td><a href="vrrp.github.io/">Sacha Analytics</a></td>
   </tr>
 </table>
 
