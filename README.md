@@ -1,9 +1,7 @@
 # Python para Geociencias
-   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/util/pj.jpg" width="400" height="150" class="center">
+   <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/util/pj.jpg" width="600" height="150" class="center">
 
-   <img src="https://vrrp.github.io/assets/images/sacha_logo1.png" width="100" height="80" class="center">
-
-#### Web: [Sacha Analytics](https://vrrp.github.io/)
+   <img src="https://vrrp.github.io/assets/images/sacha_logo1.png" width="100" height="80" class="center"><p>[Sacha Analytics](https://vrrp.github.io/)</p>
 #### Por : VR Rojas
 
 ## Módulo 1
