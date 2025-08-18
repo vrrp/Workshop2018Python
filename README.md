@@ -1,7 +1,14 @@
 # Python para Geociencias
    <img src="https://github.com/vrrp/Workshop2018Python/blob/master/Modulo1/util/pj.jpg" width="600" height="150" class="center">
 
-   <img src="https://vrrp.github.io/assets/images/sacha_logo1.png" width="100" height="80" class="center"><p>[Sacha Analytics](https://vrrp.github.io/)</p>
+<table class="img-table">
+  <tr ALIGN=center style="font-family:Times New Roman;color:#FFFFFF">
+    <td><img src="https://vrrp.github.io/assets/images/sacha_logo1.png"align="center" style="width:80px;height:70px;"> </td>
+    <td><p href="vrrp.github.io">Sacha Analytics</p></td>
+  </tr>
+</table>
+
+
 #### Por : VR Rojas
 
 ## Módulo 1
@@ -57,3 +64,24 @@ def hello_world():
     print("Hello, Markdown!")
 
 hello_world()
+
+
+**Explanation:**
+
+1.  **Triple Backticks (```):** You start and end the code block with three backticks.
+2.  **Language Specifier (python):** Immediately after the opening triple backticks, you specify the programming language (e.g., `python`, `java`, `javascript`, `cpp`, `bash`, etc.). This enables syntax highlighting in Markdown renderers.
+3.  **Your Python Code:** All lines between the opening and closing triple backticks will be treated as Python code and displayed with appropriate formatting and highlighting.
+
+**Example:**
+
+```python
+# This is a simple Python script
+name = "Alice"
+age = 30
+print(f"Name: {name}, Age: {age}")
+
+def calculate_sum(a, b):
+    return a + b
+
+result = calculate_sum(5, 10)
+print(f"Sum: {result}")
